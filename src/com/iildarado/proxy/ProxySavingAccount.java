@@ -2,7 +2,7 @@ package com.iildarado.proxy;
 
 public class ProxySavingAccount implements Account{
 
-    private Account savingAccount;
+    private SavingAccount savingAccount;
 
     @Override
     public void accountType() {
