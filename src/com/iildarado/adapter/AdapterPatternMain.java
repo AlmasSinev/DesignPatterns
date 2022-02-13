@@ -7,5 +7,7 @@ public class AdapterPatternMain {
         String mobile1 = null;
         String mobile2 = null;
         advancedPayGateway.makePayment(mobile1, mobile2);
+
+        // Комментарий 1
     }
 }
